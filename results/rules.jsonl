@@ -1,0 +1,30 @@
+{"pilot_id": "CSJN-001", "system": "rules", "prediction": {"area": "Laboral", "procedure": "queja"}, "gold": {"area": "Laboral", "procedure": "queja"}, "correct": {"area": true, "procedure": true}}
+{"pilot_id": "CSJN-002", "system": "rules", "prediction": {"area": "Laboral", "procedure": "queja"}, "gold": {"area": "Laboral", "procedure": "queja"}, "correct": {"area": true, "procedure": true}}
+{"pilot_id": "CSJN-003", "system": "rules", "prediction": {"area": "Laboral", "procedure": "queja"}, "gold": {"area": "Laboral", "procedure": "queja"}, "correct": {"area": true, "procedure": true}}
+{"pilot_id": "CSJN-004", "system": "rules", "prediction": {"area": "Laboral", "procedure": "queja"}, "gold": {"area": "Laboral", "procedure": "queja"}, "correct": {"area": true, "procedure": true}}
+{"pilot_id": "CSJN-005", "system": "rules", "prediction": {"area": "Civil - Comercial", "procedure": "otro"}, "gold": {"area": "Civil - Comercial", "procedure": "otro"}, "correct": {"area": true, "procedure": true}}
+{"pilot_id": "CSJN-006", "system": "rules", "prediction": {"area": "Civil - Comercial", "procedure": "queja"}, "gold": {"area": "Civil - Comercial", "procedure": "queja"}, "correct": {"area": true, "procedure": true}}
+{"pilot_id": "CSJN-007", "system": "rules", "prediction": {"area": "Laboral", "procedure": "queja"}, "gold": {"area": "Laboral", "procedure": "queja"}, "correct": {"area": true, "procedure": true}}
+{"pilot_id": "CSJN-008", "system": "rules", "prediction": {"area": "Laboral", "procedure": "queja"}, "gold": {"area": "Civil - Comercial", "procedure": "queja"}, "correct": {"area": false, "procedure": true}}
+{"pilot_id": "CSJN-009", "system": "rules", "prediction": {"area": "Civil - Comercial", "procedure": "queja"}, "gold": {"area": "Civil - Comercial", "procedure": "queja"}, "correct": {"area": true, "procedure": true}}
+{"pilot_id": "CSJN-010", "system": "rules", "prediction": {"area": "Laboral", "procedure": "queja"}, "gold": {"area": "Laboral", "procedure": "queja"}, "correct": {"area": true, "procedure": true}}
+{"pilot_id": "CSJN-011", "system": "rules", "prediction": {"area": "Previsional", "procedure": "queja"}, "gold": {"area": "Previsional", "procedure": "queja"}, "correct": {"area": true, "procedure": true}}
+{"pilot_id": "CSJN-012", "system": "rules", "prediction": {"area": "Laboral", "procedure": "recurso_directo"}, "gold": {"area": "Laboral", "procedure": "recurso_directo"}, "correct": {"area": true, "procedure": true}}
+{"pilot_id": "CSJN-013", "system": "rules", "prediction": {"area": "Laboral", "procedure": "otro"}, "gold": {"area": "Laboral", "procedure": "otro"}, "correct": {"area": true, "procedure": true}}
+{"pilot_id": "CSJN-014", "system": "rules", "prediction": {"area": "Laboral", "procedure": "queja"}, "gold": {"area": "Laboral", "procedure": "queja"}, "correct": {"area": true, "procedure": true}}
+{"pilot_id": "CSJN-015", "system": "rules", "prediction": {"area": "Laboral", "procedure": "otro"}, "gold": {"area": "Laboral", "procedure": "otro"}, "correct": {"area": true, "procedure": true}}
+{"pilot_id": "CSJN-016", "system": "rules", "prediction": {"area": "Laboral", "procedure": "queja"}, "gold": {"area": "Laboral", "procedure": "queja"}, "correct": {"area": true, "procedure": true}}
+{"pilot_id": "CSJN-017", "system": "rules", "prediction": {"area": "Competencia", "procedure": "recurso_directo"}, "gold": {"area": "Competencia", "procedure": "recurso_directo"}, "correct": {"area": true, "procedure": true}}
+{"pilot_id": "CSJN-018", "system": "rules", "prediction": {"area": "Previsional", "procedure": "otro"}, "gold": {"area": "Previsional", "procedure": "otro"}, "correct": {"area": true, "procedure": true}}
+{"pilot_id": "CSJN-019", "system": "rules", "prediction": {"area": "Laboral", "procedure": "queja"}, "gold": {"area": "Laboral", "procedure": "queja"}, "correct": {"area": true, "procedure": true}}
+{"pilot_id": "CSJN-020", "system": "rules", "prediction": {"area": "Competencia", "procedure": "otro"}, "gold": {"area": "Competencia", "procedure": "otro"}, "correct": {"area": true, "procedure": true}}
+{"pilot_id": "CSJN-021", "system": "rules", "prediction": {"area": "Competencia", "procedure": "otro"}, "gold": {"area": "Competencia", "procedure": "otro"}, "correct": {"area": true, "procedure": true}}
+{"pilot_id": "CSJN-022", "system": "rules", "prediction": {"area": "Competencia", "procedure": "otro"}, "gold": {"area": "Competencia", "procedure": "otro"}, "correct": {"area": true, "procedure": true}}
+{"pilot_id": "CSJN-023", "system": "rules", "prediction": {"area": "Laboral", "procedure": "queja"}, "gold": {"area": "Laboral", "procedure": "queja"}, "correct": {"area": true, "procedure": true}}
+{"pilot_id": "CSJN-024", "system": "rules", "prediction": {"area": "Laboral", "procedure": "otro"}, "gold": {"area": "Laboral", "procedure": "otro"}, "correct": {"area": true, "procedure": true}}
+{"pilot_id": "CSJN-025", "system": "rules", "prediction": {"area": "Salud", "procedure": "otro"}, "gold": {"area": "Salud", "procedure": "otro"}, "correct": {"area": true, "procedure": true}}
+{"pilot_id": "CSJN-026", "system": "rules", "prediction": {"area": "Laboral", "procedure": "salto_instancia"}, "gold": {"area": "Laboral", "procedure": "salto_instancia"}, "correct": {"area": true, "procedure": true}}
+{"pilot_id": "CSJN-027", "system": "rules", "prediction": {"area": "Laboral", "procedure": "queja"}, "gold": {"area": "Laboral", "procedure": "queja"}, "correct": {"area": true, "procedure": true}}
+{"pilot_id": "CSJN-028", "system": "rules", "prediction": {"area": "Salud", "procedure": "queja"}, "gold": {"area": "Salud", "procedure": "queja"}, "correct": {"area": true, "procedure": true}}
+{"pilot_id": "CSJN-029", "system": "rules", "prediction": {"area": "Laboral", "procedure": "queja"}, "gold": {"area": "Laboral", "procedure": "queja"}, "correct": {"area": true, "procedure": true}}
+{"pilot_id": "CSJN-030", "system": "rules", "prediction": {"area": "Laboral", "procedure": "queja"}, "gold": {"area": "Laboral", "procedure": "queja"}, "correct": {"area": true, "procedure": true}}

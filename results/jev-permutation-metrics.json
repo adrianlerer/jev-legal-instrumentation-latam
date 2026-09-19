@@ -1,0 +1,8 @@
+{
+  "n": 30,
+  "orders_per_record": 6,
+  "argmax_stable_rate": 0.9333333333333333,
+  "input_tokens": 82722,
+  "output_tokens": 11504,
+  "approved_max_usd": 0.5
+}

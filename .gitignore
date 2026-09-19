@@ -1,0 +1,11 @@
+.DS_Store
+.env
+.secrets/
+__pycache__/
+*.pyc
+.DS_Store
+publication/qa-paper/
+publication/qa-note/
+publication/*-montage.png
+.venv/
+vendor/

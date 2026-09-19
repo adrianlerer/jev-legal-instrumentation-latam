@@ -1,0 +1,8 @@
+{
+  "n": 30,
+  "accuracy": {
+    "area": 0.6,
+    "procedure": 0.9666666666666667
+  },
+  "approved_max_usd": 0.5
+}

@@ -1,0 +1,14 @@
+{
+  "n": 30,
+  "accuracy": {
+    "area": 0.9666666666666667,
+    "procedure": 1.0
+  },
+  "area_distribution": {
+    "Laboral": 18,
+    "Civil - Comercial": 4,
+    "Previsional": 2,
+    "Competencia": 4,
+    "Salud": 2
+  }
+}

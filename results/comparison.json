@@ -1,0 +1,41 @@
+{
+  "n": 30,
+  "systems": {
+    "rules": {
+      "n": 30,
+      "accuracy": {
+        "area": 0.9666666666666667,
+        "procedure": 1.0
+      },
+      "area_distribution": {
+        "Laboral": 18,
+        "Civil - Comercial": 4,
+        "Previsional": 2,
+        "Competencia": 4,
+        "Salud": 2
+      }
+    },
+    "kev": {
+      "n": 30,
+      "accuracy": {
+        "area": 0.2,
+        "procedure": 0.8
+      },
+      "area_argmax_stable_rate": 0.9333333333333333,
+      "median_latency_ms": 240.7
+    },
+    "jev": {
+      "n": 30,
+      "accuracy": {
+        "area": 0.6,
+        "procedure": 0.9666666666666667
+      },
+      "approved_max_usd": 0.5,
+      "area_argmax_stable_rate": 0.9333333333333333,
+      "main_input_tokens": 16787,
+      "permutation_input_tokens": 82722,
+      "estimated_cost_usd": 0.0042
+    }
+  },
+  "reliance_state": "ESCALATE"
+}

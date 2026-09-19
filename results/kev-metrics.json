@@ -1,0 +1,9 @@
+{
+  "n": 30,
+  "accuracy": {
+    "area": 0.2,
+    "procedure": 0.8
+  },
+  "area_argmax_stable_rate": 0.9333333333333333,
+  "median_latency_ms": 240.7
+}
