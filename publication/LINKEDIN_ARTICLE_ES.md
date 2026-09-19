@@ -2,6 +2,10 @@
 
 ![Arquitectura visual de IA jurídica instrumentada](../assets/ai-instrumentada-editorial-v1.png)
 
+Paper: https://doi.org/10.5281/zenodo.22846576  
+Nota técnica: https://doi.org/10.5281/zenodo.22846597  
+Repositorio abierto: https://github.com/adrianlerer/jev-legal-instrumentation-latam
+
 ## Probé Jev y Kev con fallos argentinos. El resultado más importante no fue cuál modelo ganó, sino dónde la automatización debía detenerse.
 
 Un modelo puede devolver una respuesta perfectamente tipada y estar perfectamente equivocado.

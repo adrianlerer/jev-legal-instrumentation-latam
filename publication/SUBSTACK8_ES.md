@@ -2,6 +2,10 @@
 
 ![Arquitectura visual de IA jurídica instrumentada](../assets/ai-instrumentada-editorial-v1.png)
 
+Paper: https://doi.org/10.5281/zenodo.22846576  
+Nota técnica: https://doi.org/10.5281/zenodo.22846597  
+Repositorio abierto: https://github.com/adrianlerer/jev-legal-instrumentation-latam
+
 ## Un piloto reproducible con Jev, Kev y treinta registros de la Corte Suprema argentina
 
 La confianza 1,00 parece una conclusión. En realidad, puede ser apenas una distribución cerrada sobre opciones mal elegidas.

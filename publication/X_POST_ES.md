@@ -36,4 +36,6 @@ Código, corpus permitido, resultados, paper y nota técnica quedan abiertos par
 
 https://github.com/adrianlerer/jev-legal-instrumentation-latam
 
+Paper: https://doi.org/10.5281/zenodo.22846576
+
 #LegalAI #Jev #IAJurídica #Argentina #LatAm

@@ -54,6 +54,11 @@ Los runners se detienen si falta la clave y rechazan un tope superior a USD 0,50
 - Un modelo no decide holding, vigencia, fuerza vinculante ni resultado.
 - Toda incertidumbre material debe cambiar el flujo a `ESCALATE` o `BLOCK`.
 
+## Publicaciones en Zenodo
+
+- Paper: https://doi.org/10.5281/zenodo.22846576
+- Nota técnica: https://doi.org/10.5281/zenodo.22846597
+
 ## Autor
 
 Ignacio Adrián Lerer  
@@ -65,4 +70,3 @@ https://estudio.justitia.com.ar
 ## Licencia
 
 Código: MIT. Textos: CC BY 4.0. Los documentos fuente conservan sus propios términos y procedencia.
-
